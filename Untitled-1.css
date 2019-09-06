@@ -1,0 +1,24 @@
+
+html{
+    
+    background: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1142293454%2F960x0.jpg%3Ffit%3Dscale)
+    no-repeat center center fixed;
+    background-size: cover;
+    height:100%;
+    overflow: hidden;
+    ;}
+#nav:hover
+    {
+        transition-duration: 2s;
+        opacity :100;
+    }
+#nav{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:20px; 
+    margin: -10px;
+    
+    background-color:blanchedalmond ;
+    color: brown;
+    text-align: center;
+    opacity: 0;
+    ;}
+ 
